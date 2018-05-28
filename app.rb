@@ -1,4 +1,5 @@
 require_relative 'config/environment'
+require 'pry'
 
 configure do
   enable :sessions
